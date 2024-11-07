@@ -1,0 +1,9 @@
+streamlit==1.25.0
+Pillow==10.0.1
+PyMuPDF==1.22.5  # For PDF text extraction
+matplotlib==3.7.2  # For plotting sentiment trends
+langdetect==1.0.9  # For language detection
+textblob==0.17.1  # For TextBlob sentiment analysis
+deep-translator==1.10.1  # For translation support
+vaderSentiment==3.3.2  # For VADER sentiment analysis
+pandas==2.1.1  # For data handling and export functionality
