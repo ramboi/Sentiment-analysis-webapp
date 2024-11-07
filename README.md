@@ -35,3 +35,4 @@ To get started, clone this repository and install the required packages:
 git clone https://github.com/ramboi/sentiment-analysis-app.git
 cd sentiment-analysis-app
 pip install -r requirements.txt
+streamlit run app.py
